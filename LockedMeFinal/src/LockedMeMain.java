@@ -4,7 +4,7 @@ public class LockedMeMain {
 
         FileOperations.createMainFolderIfNotPresent("main");
 
-        MenuOptions.printWelcomeScreen("LockedMe", "Munshi Sahil Aziz");
+        MenuOptions.printWelcomeScreen("LockedMe", "ROHIT PRAGADA");
 
         HandleOptions.handleWelcomeScreenInput();
     }
